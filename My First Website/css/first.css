@@ -1,0 +1,21 @@
+body{
+  background-color: #cfcfcf
+}
+div{
+text-align: center;
+font-family: sans-serif;
+width: 400px;
+height:400px;
+margin: auto;
+}
+ol{
+  text-align :left;
+  list-style-position:inside;
+  padding-left: 150px;
+
+}
+.quote{
+text-align: center;
+  border-style:groove;
+  border-color: white;
+}
