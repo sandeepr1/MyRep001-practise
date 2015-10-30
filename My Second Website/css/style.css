@@ -1,0 +1,17 @@
+.box{
+  width: 100px;
+  height:100px;
+  margin: auto;
+background-color:grey;
+position: absolute;
+left:0px;;
+top: 10px;
+}
+.wrap{
+  width:600px;
+  height: 600px;
+  margin: auto;
+  background-color: blue;
+  position: relative;
+
+}
