@@ -1,0 +1,67 @@
+body{
+  background-color: #eee;
+  font-family: sans-serif;
+
+}
+.container_12{
+}
+header{
+  position: fixed;
+}
+.header h2{
+color: rgb(73, 68, 70);
+font-size: 20px;
+padding-top: 20px;
+font-weight: bold;
+padding-left: 0PX;
+letter-spacing:6px;
+
+}
+.hero{
+
+}
+.menu li {
+  display: inline;
+  font-weight: 40px;
+
+
+
+}
+.menu{
+
+}
+.menu ul{
+  padding-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+li a{
+  text-decoration: none;
+  color: rgb(73, 68, 70);
+
+
+}
+ img{
+   padding-top: 65px;
+  width: 960px;
+}
+.content{
+  padding-top: 40px;
+  text-align: center;
+  font-family: monospace;
+  font-style: normal;
+  font-weight: lighter;
+  letter-spacing: 4px;
+  color: rgb(28, 27, 27);
+
+}
+.grids{
+  padding-top: 20px;
+  padding-right: 64px;
+}
+.grids img{
+  padding-top: 0px;
+width: 300px;
+}
