@@ -7,9 +7,10 @@ body{
 }
 header{
   position: fixed;
+
 }
 .header h2{
-color: rgb(73, 68, 70);
+color:rgb(73, 68, 70);
 font-size: 20px;
 padding-top: 20px;
 font-weight: bold;
@@ -39,13 +40,14 @@ letter-spacing:6px;
 
 li a{
   text-decoration: none;
-  color: rgb(73, 68, 70);
-
+color: rgb(73, 68, 70);
 
 }
  img{
    padding-top: 65px;
   width: 960px;
+   filter: blur();
+
 }
 .content{
   padding-top: 40px;
@@ -64,4 +66,7 @@ li a{
 .grids img{
   padding-top: 0px;
 width: 300px;
+text-shadow: 0 0 20px red;
+filter: opacity(1000px);
+filter: blur(600px);
 }
